@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - KAARUPET WHOLESALERS FASHION HUB</title>
+    <meta name="description" content="View our extensive gallery showcasing the latest fashion trends and wholesale clothing collections at Kaarupet Wholesaler.">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="logo">
+                    <i class="fas fa-shopping-bag"></i>
+                    <span>Kaarupet Wholesaler</span>
+                </div>
+                <ul class="nav-menu" id="nav-menu">
+                    <li><a href="index.html" class="nav-link">Home</a></li>
+                    <li><a href="about.html" class="nav-link">About</a></li>
+                    <li><a href="products.html" class="nav-link">Products</a></li>
+                    <li><a href="gallery.html" class="nav-link active">Gallery</a></li>
+                    <li><a href="contact.html" class="nav-link">Contact</a></li>
+                </ul>
+                <div class="hamburger" id="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Our Fashion Gallery</h1>
+            <p>Explore our latest collections and fashion trends</p>
+        </div>
+    </section>
+
+    <!-- Gallery Categories -->
+    <section class="gallery-categories">
+        <div class="container">
+            <div class="category-filters">
+                <button class="filter-btn active" data-filter="all">All Collections</button>
+                <button class="filter-btn" data-filter="casual">Casual Wear</button>
+                <button class="filter-btn" data-filter="formal">Formal Wear</button>
+                <button class="filter-btn" data-filter="women">Women's Fashion</button>
+                <button class="filter-btn" data-filter="men">Men's Fashion</button>
+                <button class="filter-btn" data-filter="ethnic">Ethnic Wear</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <div class="container">
+            <div class="gallery-grid">
+                <!-- Casual Wear Gallery Items -->
+                <div class="gallery-item" data-category="casual">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-tshirt"></i>
+                        <h3>Premium T-Shirts Collection</h3>
+                        <p>Comfortable cotton t-shirts in various colors</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="casual">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-vest"></i>
+                        <h3>Casual Shirts Range</h3>
+                        <p>Stylish casual shirts for everyday wear</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item" data-category="casual">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-hiking"></i>
+                        <h3>Denim & Casual Pants</h3>
+                        <p>Durable jeans and casual pants collection</p>
+                    </div>
+                </div>
+
+                <!-- Formal Wear Gallery Items -->
+                <div class="gallery-item formal-theme" data-category="formal">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-user-tie"></i>
+                        <h3>Business Suits Collection</h3>
+                        <p>Professional suits for corporate wear</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item formal-theme" data-category="formal">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-briefcase"></i>
+                        <h3>Formal Shirts Range</h3>
+                        <p>Crisp formal shirts for office wear</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item formal-theme" data-category="formal">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-user-graduate"></i>
+                        <h3>Formal Trousers</h3>
+                        <p>Well-tailored formal pants collection</p>
+                    </div>
+                </div>
+
+                <!-- Women's Fashion Gallery Items -->
+                <div class="gallery-item women-theme" data-category="women">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-female"></i>
+                        <h3>Women's Ethnic Wear</h3>
+                        <p>Beautiful traditional clothing for women</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item women-theme" data-category="women">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-star"></i>
+                        <h3>Western Wear Collection</h3>
+                        <p>Trendy western outfits for modern women</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item women-theme" data-category="women">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-gem"></i>
+                        <h3>Party & Evening Wear</h3>
+                        <p>Glamorous outfits for special occasions</p>
+                    </div>
+                </div>
+
+                <!-- Men's Fashion Gallery Items -->
+                <div class="gallery-item men-theme" data-category="men">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-male"></i>
+                        <h3>Men's Casual Collection</h3>
+                        <p>Stylish casual wear for men</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item men-theme" data-category="men">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-dumbbell"></i>
+                        <h3>Activewear & Sports</h3>
+                        <p>Performance clothing for fitness</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item men-theme" data-category="men">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-crown"></i>
+                        <h3>Men's Ethnic Wear</h3>
+                        <p>Traditional clothing for special occasions</p>
+                    </div>
+                </div>
+
+                <!-- Ethnic Wear Gallery Items -->
+                <div class="gallery-item ethnic-theme" data-category="ethnic">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-pray"></i>
+                        <h3>Festival Collection</h3>
+                        <p>Special ethnic wear for festivals</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item ethnic-theme" data-category="ethnic">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-ring"></i>
+                        <h3>Wedding Collection</h3>
+                        <p>Elegant ethnic wear for weddings</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item ethnic-theme" data-category="ethnic">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-mosque"></i>
+                        <h3>Traditional Attire</h3>
+                        <p>Authentic traditional clothing</p>
+                    </div>
+                </div>
+
+                <!-- Additional Gallery Items -->
+                <div class="gallery-item" data-category="casual">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-child"></i>
+                        <h3>Kids Casual Wear</h3>
+                        <p>Comfortable clothing for children</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item women-theme" data-category="women">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-sun"></i>
+                        <h3>Summer Collection</h3>
+                        <p>Light and breezy summer outfits</p>
+                    </div>
+                </div>
+
+                <div class="gallery-item men-theme" data-category="men">
+                    <div class="gallery-overlay">
+                        <i class="fas fa-snowflake"></i>
+                        <h3>Winter Collection</h3>
+                        <p>Warm and stylish winter wear</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery Stats -->
+    <section class="gallery-stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <h3>1000+</h3>
+                    <p>Product Designs</p>
+                </div>
+                <div class="stat-item">
+                    <h3>50+</h3>
+                    <p>Fashion Categories</p>
+                </div>
+                <div class="stat-item">
+                    <h3>25+</h3>
+                    <p>Seasonal Collections</p>
+                </div>
+                <div class="stat-item">
+                    <h3>100%</h3>
+                    <p>Quality Assured</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fashion Trends Section -->
+    <section class="fashion-trends">
+        <div class="container">
+            <h2 class="section-title">Latest Fashion Trends</h2>
+            <div class="trends-grid">
+                <div class="trend-card">
+                    <div class="trend-icon casual-bg">
+                        <i class="fas fa-leaf"></i>
+                    </div>
+                    <h3>Sustainable Fashion</h3>
+                    <p>Eco-friendly materials and sustainable production methods are becoming increasingly popular in the fashion industry.</p>
+                </div>
+                <div class="trend-card">
+                    <div class="trend-icon formal-bg">
+                        <i class="fas fa-palette"></i>
+                    </div>
+                    <h3>Bold Colors</h3>
+                    <p>Vibrant and bold color combinations are making a statement in both casual and formal wear this season.</p>
+                </div>
+                <div class="trend-card">
+                    <div class="trend-icon women-bg">
+                        <i class="fas fa-magic"></i>
+                    </div>
+                    <h3>Minimalist Design</h3>
+                    <p>Clean lines and minimalist designs continue to dominate the fashion landscape with timeless appeal.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Like What You See?</h2>
+                <p>Browse our complete product catalog and get wholesale prices on all collections.</p>
+                <div class="cta-buttons">
+                    <a href="products.html" class="btn btn-primary">View Products</a>
+                    <a href="contact.html" class="btn btn-secondary">Request Catalog</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="logo">
+                        <i class="fas fa-shopping-bag"></i>
+                        <span>Kaarupet Wholesaler</span>
+                    </div>
+                    <p>Your trusted partner for premium fashion at wholesale prices. Quality, affordability, and customer satisfaction guaranteed.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Categories</h3>
+                    <ul>
+                        <li><a href="products.html#casual">Casual Wear</a></li>
+                        <li><a href="products.html#formal">Formal Wear</a></li>
+                        <li><a href="products.html#women">Women's Fashion</a></li>
+                        <li><a href="products.html#men">Men's Fashion</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact Info</h3>
+                    <div class="contact-info">
+                        <p><i class="fas fa-map-marker-alt"></i> Kaarupet, Kapenguria, Kenya</p>
+                        <p><i class="fas fa-phone"></i> +254104401617</p>
+                        <p><i class="fas fa-envelope"></i> info@kaarupetwholesaler.com</p>
+                        <p><i class="fas fa-clock"></i> Everyday: 6:00 AM - 7:00 PM</p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Kaarupet Wholesaler. All rights reserved. | Designed with ❤️ for fashion lovers</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- JavaScript -->
+    <script src="js/script.js"></script>
+</body>
+</html>
