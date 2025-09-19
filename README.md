@@ -1,90 +1,89 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Kaarupet Wholesalers Fashion Hub 👗👔
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+Welcome to **Kaarupet Wholesalers Fashion Hub**, your trusted partner in **premium fashion at wholesale prices**.  
+We are based in **Kaarupet, Kapenguria, Kenya**, and have been serving fashion retailers for **over a decade**.  
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Our mission is simple:  
+👉 To provide high-quality, stylish, and affordable fashion clothing to retailers and businesses while maintaining excellent customer service.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+## 🌟 About Us
 
-Using your plan, begin building:
+Kaarupet Wholesalers started as a small family business and has grown into a leading wholesale supplier, trusted by **hundreds of retailers across Kenya and beyond**.  
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+We specialize in:  
+- Casual Wear 👕  
+- Formal Attire 🤵  
+- Women’s Fashion 👗  
+- Men’s Fashion 👔  
 
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+Every piece we stock is carefully selected to meet our **quality, style, and affordability standards**.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🎯 Mission, Vision & Values
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+- **Mission**: To provide premium quality fashion clothing at wholesale prices while building long-lasting partnerships with retailers worldwide.  
+- **Vision**: To become the most trusted and preferred wholesale fashion supplier globally, known for quality, reliability, and innovation.  
+- **Values**: Quality • Integrity • Customer Satisfaction • Innovation  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
+## 🏆 Our Achievements
 
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+- **500+** Happy Customers  
+- **10,000+** Products Delivered  
+- **50+** Cities Served  
+- **99%** Customer Satisfaction  
 
 ---
 
-## Deliverables
+## 💡 Why Choose Us?
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+✅ Premium Quality – sourced from trusted manufacturers.  
+✅ Competitive Pricing – helping businesses maximize profit margins.  
+✅ Fast Delivery – quick and reliable shipping.  
+✅ 24/7 Customer Support – always available for your needs.  
 
 ---
 
-## Outcome
+## 👥 Meet Our Team
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+- **Darren Cherop** – Founder & CEO (15+ years in wholesale fashion)  
+- **Cherono Kalacha** – Head of Operations (ensuring smooth business flow)  
+- **Rotun Stella** – Sales Director (building client relationships and market reach)  
+
+---
+
+## 📞 Contact Us
+
+📍 **Address**: Kaarupet, Kapenguria, Kenya  
+📞 **Phone**: +254 104 401 617  
+📧 **Email**: info@kaarupetwholesaler.com  
+🕐 **Working Hours**: Everyday – 6:00 AM to 7:00 PM  
+
+Follow us on:  
+[Facebook](#) | [Instagram](#) | [Twitter](#) | [LinkedIn](#)  
+
+---
+
+## 🚀 Website Structure
+
+- `index.html` → Homepage  
+- `about.html` → About Us (Mission, Vision, Values, Team)  
+- `products.html` → Product Categories (Casual, Formal, Women, Men)  
+- `gallery.html` → Fashion Showcase  
+- `contact.html` → Contact & Inquiries  
+- `css/styles.css` → Stylesheet  
+- `js/script.js` → JavaScript Functions  
+- `images/` → Logos, icons, and product images  
+
+---
+
+## ❤️ Motto & Tagline
+
+- **Motto**: *“Dressing Dreams, Supplying Success.”*  
+- **Tagline**: *“Your Fashion, Our Passion – Wholesale Made Easy.”*  
+
+© 2025 **Kaarupet Wholesalers Fashion Hub**. All rights reserved.
