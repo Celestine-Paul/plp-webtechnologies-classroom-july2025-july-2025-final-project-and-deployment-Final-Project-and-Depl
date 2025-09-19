@@ -6,7 +6,6 @@ We are based in **Kaarupet, Kapenguria, Kenya**, and have been serving fashion r
 Our mission is simple:  
 👉 To provide high-quality, stylish, and affordable fashion clothing to retailers and businesses while maintaining excellent customer service.
 
----
 
 ## 🌟 About Us
 
@@ -20,15 +19,14 @@ We specialize in:
 
 Every piece we stock is carefully selected to meet our **quality, style, and affordability standards**.
 
----
+
 
 ## 🎯 Mission, Vision & Values
 
 - **Mission**: To provide premium quality fashion clothing at wholesale prices while building long-lasting partnerships with retailers worldwide.  
 - **Vision**: To become the most trusted and preferred wholesale fashion supplier globally, known for quality, reliability, and innovation.  
-- **Values**: Quality • Integrity • Customer Satisfaction • Innovation  
-
----
+- **Values**: Quality • Integrity • Customer Satisfaction • Innovation
+  
 
 ## 🏆 Our Achievements
 
@@ -37,7 +35,7 @@ Every piece we stock is carefully selected to meet our **quality, style, and aff
 - **50+** Cities Served  
 - **99%** Customer Satisfaction  
 
----
+
 
 ## 💡 Why Choose Us?
 
@@ -46,7 +44,7 @@ Every piece we stock is carefully selected to meet our **quality, style, and aff
 ✅ Fast Delivery – quick and reliable shipping.  
 ✅ 24/7 Customer Support – always available for your needs.  
 
----
+
 
 ## 👥 Meet Our Team
 
@@ -54,7 +52,6 @@ Every piece we stock is carefully selected to meet our **quality, style, and aff
 - **Cherono Kalacha** – Head of Operations (ensuring smooth business flow)  
 - **Rotun Stella** – Sales Director (building client relationships and market reach)  
 
----
 
 ## 📞 Contact Us
 
@@ -66,7 +63,6 @@ Every piece we stock is carefully selected to meet our **quality, style, and aff
 Follow us on:  
 [Facebook](#) | [Instagram](#) | [Twitter](#) | [LinkedIn](#)  
 
----
 
 ## 🚀 Website Structure
 
@@ -79,7 +75,7 @@ Follow us on:
 - `js/script.js` → JavaScript Functions  
 - `images/` → Logos, icons, and product images  
 
----
+
 
 ## ❤️ Motto & Tagline
 
